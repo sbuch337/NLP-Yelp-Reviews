@@ -1,2 +1,2 @@
 # NLP-Yelp-Reviews
-Multiclass Text Classification:  Predicting YelpStar Ratings with NLP
+The goal of this project is to use natural language processing (NLP) techniques and machinelearning algorithms to predict a Yelp start rating based on the text of the review given.  Thiswould be useful for classifying reviews that do not have a star ratings, for example small busi-nesses, or movie reviews.Three  supervised  machine  learning  algorithms  were  assessed:   (1)  Multinomial  Na ̈ıve  Bayes,(2) K Nearest Neighbors Classifier and (3) Support Vector Classifier.  The one with the highestaccuracy score was the support vector classifier with an accuracy score of 62% on the test set.
